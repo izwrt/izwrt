@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishwar</h1>
 <h3 align="center">Software Engineer, a passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/izwrt](https://github.com/izwrt)
-
 - 📫 How to reach me **ishwar.tu@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
